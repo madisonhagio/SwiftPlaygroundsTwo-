@@ -20,4 +20,24 @@ if gradeA == true
 }else{
     print("I'm not so sure about coding in Swift")
 }
-
+//Part 5
+let a = 20
+if a < 5{
+    print("a is less than or equal to 5")
+}else{
+    if a > 10{
+        print("a is greater than or equal to 10")
+    }
+}
+var five = 5
+if five == 5{
+    print("Five is the answer")
+}else{
+    print("I got the problem correct")
+}
+var six = 6
+if six == 6{
+    print("This is easy")
+}else{
+    print("I got the answer wrong")
+}
